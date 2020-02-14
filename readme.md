@@ -3,7 +3,7 @@
 ## Authors
 
 * **Lin Dixuan**
-* **Said**
+* **Said EL YADINI**
 * **Omar**
 
 ## Built With
